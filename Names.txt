@@ -1,6 +1,3 @@
 Names:
-<<<<<<< HEAD
 Zach Lynch
-=======
 Preston Raab
->>>>>>> 7b93cb0ef56558fc381c233d1f12e5d448037b33
